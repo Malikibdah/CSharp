@@ -39,18 +39,18 @@ namespace _30._6._2024
 
 
         //3 solution
-        public static int Thegreateryear(int[] years)
-        {
+        //public static int Thegreateryear(int[] years)
+        //{
 
-            foreach (int year in years)
-            {
-                if (year > 1950)
-                {
-                    Console.WriteLine(year);
-                }
-            }
-            return 0;
-        }
+        //    foreach (int year in years)
+        //    {
+        //        if (year > 1950)
+        //        {
+        //            Console.WriteLine(year);
+        //        }
+        //    }
+        //    return 0;
+        //}
 
         //4 solution
         //static int Thedayofage()
@@ -136,8 +136,8 @@ namespace _30._6._2024
             //Thecubeofnumber();
 
             //3 solution
-            int[] years = { 1763, 1972, 1925, 1916, 1984, 1124, 1950, 2020 };
-            Thegreateryear(years);
+            //int[] years = { 1763, 1972, 1925, 1916, 1984, 1124, 1950, 2020 };
+            //Thegreateryear(years);
 
             //4
             //Console.WriteLine("Inter Your age in year : ");
