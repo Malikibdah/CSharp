@@ -63,90 +63,91 @@ namespace _30._6._2024
         //}
 
         //5 solution
-        //public class Person
-        //{
-        //    public int Age;
-        //    public string Gender;
-        //    public string Name;
-        //    public string Email;
-        //    public int Id;
-        //    public string Phone;
+        public class Person
+        {
+            public int Age;
+            public string Gender;
+            public string Name;
+            public string Email;
+            public int Id;
+            public string Phone;
 
-        //    public  Person (int age, string gender, string name, string email, int id, string phone)
-        //    {
-        //        Age = age;
-        //        Gender = gender;
-        //        Name = name;
-        //        Email = email;
-        //        Id = id;
-        //        Phone = phone;
-
-
-        //        if (age >= 18 && age <= 60)
-        //        {
-        //            Age = age;
-        //        }
-        //        else
-        //        {
-        //            Console.WriteLine("inter valid age between 18 - 60");
-        //        }
-
-        //        if (phone[0] == '0' && phone[1] == '7')
-        //        {
-        //            if (phone[2] == '7' || phone[2] == '8' || phone[2] == '9')
-        //            {
-        //                Phone = phone;
-        //            }
-        //            else
-        //            {
-        //                Console.WriteLine("this number is not valid1");
-        //            }
-        //        }
-        //        else {
-        //            Console.WriteLine("this number is not valid2");
-
-        //        }
+            public Person(int age, string gender, string name, string email, int id, string phone)
+            {
+                Age = age;
+                Gender = gender;
+                Name = name;
+                Email = email;
+                Id = id;
+                Phone = phone;
 
 
+                if (age >= 18 && age <= 60)
+                {
+                    Age = age;
+                }
+                else
+                {
+                    Console.WriteLine("inter valid age between 18 - 60");
+                }
 
-        //    }
-        //    public void Myinfo()
+                if (phone[0] == '0' && phone[1] == '7')
+                {
+                    if (phone[2] == '7' || phone[2] == '8' || phone[2] == '9')
+                    {
+                        Phone = phone;
+                    }
+                    else
+                    {
+                        Console.WriteLine("this number is not valid1");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("this number is not valid2");
 
-        //    {
-        //        Console.WriteLine($"Name: {Name}");
-        //        Console.WriteLine($"Age: {Age}");
-        //        Console.WriteLine($"Gender: {Gender}");
-        //        Console.WriteLine($"Email: {Email}");
-        //        Console.WriteLine($"ID: {Id}");
-        //        Console.WriteLine($"Phone: {Phone}");
-        //    }
+                }
 
 
 
+            }
+            public void Myinfo()
+
+            {
+                Console.WriteLine($"Name: {Name}");
+                Console.WriteLine($"Age: {Age}");
+                Console.WriteLine($"Gender: {Gender}");
+                Console.WriteLine($"Email: {Email}");
+                Console.WriteLine($"ID: {Id}");
+                Console.WriteLine($"Phone: {Phone}");
+            }
 
 
-        //}
+
+
+
+        }
         static void Main(string[] args)
         {
-            //1 solution
-            //Console.WriteLine("Inter your 10 number : ");
-            //Sumandavarege();
+                //1 solution
+                //Console.WriteLine("Inter your 10 number : ");
+                //Sumandavarege();
 
-            //2 solution
-            //Thecubeofnumber();
+                //2 solution
+                //Thecubeofnumber();
 
-            //3 solution
-            //int[] years = { 1763, 1972, 1925, 1916, 1984, 1124, 1950, 2020 };
-            //Thegreateryear(years);
+                //3 solution
+                //int[] years = { 1763, 1972, 1925, 1916, 1984, 1124, 1950, 2020 };
+                //Thegreateryear(years);
 
-            //4
-            //Console.WriteLine("Inter Your age in year : ");
-            //Console.WriteLine($"Your age in days is : {Thedayofage()}");
+                //4
+                //Console.WriteLine("Inter Your age in year : ");
+                //Console.WriteLine($"Your age in days is : {Thedayofage()}");
 
-            //5 solution
+                //5 solution
 
-            //Person theinfo = new Person(30, "male", "Malik", "malikibdah88@gmail.com", 112233, "0786217123");
-            //theinfo.Myinfo();
-        }
+                Person theinfo = new Person(30, "male", "Malik", "malikibdah88@gmail.com", 112233, "1786217123");
+                theinfo.Myinfo();
+            }
     }
 }

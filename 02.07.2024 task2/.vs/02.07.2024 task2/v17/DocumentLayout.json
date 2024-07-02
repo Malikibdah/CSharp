@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\02.07.2024 task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB000FB-E995-4207-9ABB-41BAC0F44E35}|02.07.2024 task2\\02.07.2024 task2.csproj|c:\\users\\orange\\source\\repos\\02.07.2024 task2\\02.07.2024 task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB000FB-E995-4207-9ABB-41BAC0F44E35}|02.07.2024 task2\\02.07.2024 task2.csproj|solutionrelative:02.07.2024 task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\02.07.2024 task2\\02.07.2024 task2\\Program.cs",
+              "RelativeDocumentMoniker": "02.07.2024 task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\02.07.2024 task2\\02.07.2024 task2\\Program.cs",
+              "RelativeToolTip": "02.07.2024 task2\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAACcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T18:40:14.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

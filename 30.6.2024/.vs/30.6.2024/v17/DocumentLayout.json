@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\CSharp\\CSharp\\30.6.2024\\30.6.2024\\Program.cs",
               "RelativeDocumentMoniker": "30.6.2024\\Program.cs",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\CSharp\\30.6.2024\\30.6.2024\\Program.cs",
-              "RelativeToolTip": "30.6.2024\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAqwIwAAAAAAAAA",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\CSharp\\CSharp\\30.6.2024\\30.6.2024\\Program.cs*",
+              "RelativeToolTip": "30.6.2024\\Program.cs*",
+              "ViewState": "AQIAAHIAAAAAAAAAAADwv4AAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T08:09:10.926Z",
               "EditorCaption": ""

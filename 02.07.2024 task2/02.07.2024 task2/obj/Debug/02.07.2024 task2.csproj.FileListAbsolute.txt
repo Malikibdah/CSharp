@@ -1,0 +1,7 @@
+C:\Users\Orange\source\repos\02.07.2024 task2\02.07.2024 task2\bin\Debug\02.07.2024 task2.exe.config
+C:\Users\Orange\source\repos\02.07.2024 task2\02.07.2024 task2\bin\Debug\02.07.2024 task2.exe
+C:\Users\Orange\source\repos\02.07.2024 task2\02.07.2024 task2\bin\Debug\02.07.2024 task2.pdb
+C:\Users\Orange\source\repos\02.07.2024 task2\02.07.2024 task2\obj\Debug\02.07.2024 task2.csproj.AssemblyReference.cache
+C:\Users\Orange\source\repos\02.07.2024 task2\02.07.2024 task2\obj\Debug\02.07.2024 task2.csproj.CoreCompileInputs.cache
+C:\Users\Orange\source\repos\02.07.2024 task2\02.07.2024 task2\obj\Debug\02.07.2024 task2.exe
+C:\Users\Orange\source\repos\02.07.2024 task2\02.07.2024 task2\obj\Debug\02.07.2024 task2.pdb
